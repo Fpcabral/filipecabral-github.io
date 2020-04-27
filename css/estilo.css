@@ -1,0 +1,52 @@
+:root {
+  --primeira: #d9e5d6;
+  --segunda: #c9f0ff;
+  --terceira: #5cc8ff;
+  --quarta: #577399;
+  --quinta: #495867;
+}
+
+#mainNav {
+  background-color: var(--segunda) !important;
+}
+
+.nav-link {
+  color: var(--quinta) !important;
+}
+.text-secondary {
+  color: var(--quinta) !important;
+}
+
+.nav-link:hover {
+  color: var(--quarta) !important;
+}
+
+.active {
+  background-color: var(--terceira) !important;
+}
+
+.bg-primary {
+  background-color: var(--quarta) !important;
+}
+.logoNav {
+  width: 15%;
+}
+.divider-custom-line {
+  background-color: var(--quinta) !important;
+}
+.divider-custom-icon {
+  color: var(--quinta) !important;
+}
+
+.portfolio .portfolio-item .portfolio-item-caption {
+  background-color: var(--terceira) !important;
+}
+
+.btn-primary {
+  background-color: var(--terceira) !important;
+  border-color: var(--terceira) !important;
+}
+
+.portfolio-modal .close {
+  color: var(--terceira) !important;
+}
