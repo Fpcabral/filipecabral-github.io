@@ -50,3 +50,9 @@
 .portfolio-modal .close {
   color: var(--terceira) !important;
 }
+
+.video {
+  text-align: center;
+  width: 50%;
+  height: 100%;
+}
